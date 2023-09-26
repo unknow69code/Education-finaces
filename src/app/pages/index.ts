@@ -1,0 +1,6 @@
+export { default as ArrowRight } from './about/icons/ArrowRight'
+export * from './about'
+export { default as Home } from './Home'
+export { default as PageNotFound } from './PageNotFound'
+// export { default as Signin } from './Signin'
+// export { default as Signup } from './Signup'
